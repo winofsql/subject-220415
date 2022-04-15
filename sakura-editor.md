@@ -3,7 +3,7 @@
 - c:\app2 に保存
 - 7zip で解答
 - c:\app2\sakura.exe を実行してすぐ閉じる
-- エクスプローラのアドレスバーで %appdata% を入力
+- エクスプローラのアドレスバーで **%appdata%** を入力
 - C:\Users\lightbox\AppData\Roaming が開く
 - そのフォルダ内の sakura フォルダを開く
 - sakura.ini があることを確認
