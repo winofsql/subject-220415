@@ -11,3 +11,8 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
 start .
 ```
+
+一般的なコマンドの一覧は以下のコマンドで表示されます
+```
+HELP
+```
