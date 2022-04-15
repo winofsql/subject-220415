@@ -1,4 +1,4 @@
-## Miショートカット
+## Microsoft ショートカット
 ```
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
