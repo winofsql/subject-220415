@@ -19,7 +19,7 @@
   ![image](https://user-images.githubusercontent.com/1501327/163501786-a3350c07-6e3b-4815-aba2-75e9986619a5.png)
 - クリップボードの履歴
   - WIN + V\
-  ![image](https://user-images.githubusercontent.com/1501327/163502341-d7efe0c1-d859-4ed2-b27b-770fd1850192.png)
+  ![image](https://user-images.githubusercontent.com/1501327/163703037-9c0f89ac-41f8-462f-bdff-930ebda433af.png)
   - [システム] > [クリップボード]を選択し、[クリップボードの履歴] の下のスイッチをオンにします。\
   ![image](https://user-images.githubusercontent.com/1501327/163703019-0a726347-ae50-4bb3-9dbe-dc7e34dc2551.png)
 
