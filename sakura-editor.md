@@ -11,5 +11,5 @@
 - sakura.ini のプロパティを開いてセキャュリティを解除する
 - [ここ](https://github.com/winofsql/subject-2022-software) にある **sakura-de-hiraku.reg** をダウンロードする
 - エクスプローラからダブルクリックしてレジストリに登録する
-- ![image](https://user-images.githubusercontent.com/1501327/163505052-ef3c47a4-774e-4b49-8807-bbb572df92d2.png)
+![image](https://user-images.githubusercontent.com/1501327/163703311-6ddf852d-722d-489c-b93a-31426f7d2bc6.png)
 
