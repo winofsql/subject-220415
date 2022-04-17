@@ -1,5 +1,5 @@
 ## さくらエディタを使えるようにする
-- G ドライブから sakura.zip をダウンロード
+- G ドライブから sakura.zip をダウンロード( "G:\共有ドライブ\SE-WORK-DOWNLOAD\software\sakura.zip" )
 - c:\app2 に保存
 - 7zip で解答
 - c:\app2\sakura.exe を実行してすぐ閉じる
