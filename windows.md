@@ -2,6 +2,9 @@
 ```
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 ```
+```
+shell:Common StartUp
+```
 
 ## start コマンド( コマンドプロンプト )
 
