@@ -10,8 +10,8 @@
     - システムの詳細設定\
     ![image](https://user-images.githubusercontent.com/1501327/163501422-48554e1a-2afe-479f-9a0d-4100ba869366.png)
 - 部分キャプチャ
-  - **WIN + SHIFT + S**
-  - ![image](https://user-images.githubusercontent.com/1501327/163501543-eebd97bd-01a6-4760-a63a-8f38ff692af7.png)
+  - **WIN + SHIFT + S**\
+  ![image](https://user-images.githubusercontent.com/1501327/163702949-88db9a82-60aa-4b55-bfbf-8e09731efb5b.png)
 - エクスプローラ
   - WIN + E
 - ファイル名を指定して実行
