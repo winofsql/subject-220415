@@ -25,3 +25,8 @@ help
 ## 左下右クリックメニューの Power Shell をコマンドプロンプトに変える
 
 ![image](https://user-images.githubusercontent.com/1501327/163703388-eb7e164a-7ea8-4811-bc81-f51dab483b71.png)
+
+
+## 
+
+![image](https://user-images.githubusercontent.com/1501327/163704163-8edf123b-353c-41d7-9582-e11179583329.png)
