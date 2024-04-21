@@ -15,8 +15,11 @@
 - エクスプローラ
   - WIN + E
 - ファイル名を指定して実行
-  - WIN + R\
-  ![image](https://user-images.githubusercontent.com/1501327/163501786-a3350c07-6e3b-4815-aba2-75e9986619a5.png)
+  - WIN + R
+ 
+  ![image](https://github.com/winofsql/subject-220415/assets/1501327/66cb788b-ec16-41e3-b240-3e045bce90b6)
+
+  
 - クリップボードの履歴
   - WIN + V
  
