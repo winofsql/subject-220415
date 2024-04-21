@@ -20,7 +20,10 @@
 - クリップボードの履歴
   - WIN + V\
   ![image](https://user-images.githubusercontent.com/1501327/163703037-9c0f89ac-41f8-462f-bdff-930ebda433af.png)
-  - [システム] > [クリップボード]を選択し、[クリップボードの履歴] の下のスイッチをオンにします。\
+  - [システム] > [クリップボード]を選択し、[クリップボードの履歴] の下のスイッチをオンにします。
+ 
+  ![image](https://github.com/winofsql/subject-220415/assets/1501327/2a215808-f24e-43c5-a156-8e19f380926e)
+
   ![image](https://github.com/winofsql/subject-220415/assets/1501327/1ebad471-1db2-4eff-9b87-43bc5fa13422)
 
 
