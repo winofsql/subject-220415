@@ -14,7 +14,7 @@
 - 部分キャプチャ
   - **WIN + SHIFT + S**
 
-  ![image](https://user-images.githubusercontent.com/1501327/163702949-88db9a82-60aa-4b55-bfbf-8e09731efb5b.png)
+  ![image](https://github.com/winofsql/subject-220415/assets/1501327/28ab0650-45d0-47d4-97af-7c20ef8372df)
   
 - エクスプローラ
   - WIN + E
