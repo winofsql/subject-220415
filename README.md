@@ -9,7 +9,7 @@
   - **WIN + PAUSE**
     - システムの詳細設定
    
-      ![image](https://github.com/winofsql/subject-220415/assets/1501327/2cc10e02-d181-4a72-8b7b-d185fbf31b2b)
+      ![image](https://github.com/winofsql/subject-220415/assets/1501327/22cbe8cb-4b6b-464e-ac0c-12f68615cf70)
 
 - 部分キャプチャ
   - **WIN + SHIFT + S**
