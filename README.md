@@ -17,8 +17,7 @@
 - ファイル名を指定して実行
   - WIN + R
  
-  ![image](https://github.com/winofsql/subject-220415/assets/1501327/66cb788b-ec16-41e3-b240-3e045bce90b6)
-
+  ![image](https://github.com/winofsql/subject-220415/assets/1501327/43b5f103-9146-4ea5-b8d2-84b4618f554b)
   
 - クリップボードの履歴
   - WIN + V
